@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 ### About Me :
 I am a `Data Science` and `Chemical Engineering` student <img src="https://media.giphy.com/media/kvazz2A4Pa2LHDMzwZ/giphy.gif" width="30">.
-- :telescope: I’m studying Chemical Engineering (Pakistan Institute of Engineering and Applied Sciences (PIEAS), Islamabad.
+- :telescope: I’m studying Chemical Engineering from Pakistan Institute of Engineering and Applied Sciences (PIEAS), Islamabad.
 
 - :seedling: Exploring real-world problems and studying Data Science & AI at [codanics](www.codanics.com).
 
