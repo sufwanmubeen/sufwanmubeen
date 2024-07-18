@@ -22,7 +22,42 @@ I am a `Data Science` and `Chemical Engineering` student <img src="https://media
 - :seedling: Exploring real-world problems and studying Data Science & AI at [codanics](www.codanics.com).
 
 - :zap: In my free time, I perform EDA on various DataSets to get key insights and read tech articles<img src="https://media.giphy.com/media/1BTllePqKoGgqtZJZ7/giphy.gif" width="30">.
-- 📫 How to reach me:
-  - <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3B4dHlieXg5Y3ZtYmJ6cDB0c2RlcnZlbHF2dHpqbmxqaDlicXlydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Wzm5nnNsb5EbkqViue/giphy.webp" width="30"> [sufwanmubeen@gmail.com](sufwanmubeen@gmail.com)
-  - <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNzMGRpemtyZmMxYzU3bm1tNzR0c3pkaHltbXZ5YjVnbDZsNnZvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7YmQi07keApQrPUMUM/giphy.webp" width="30"> [sufwanmubeen](www.linkedin.com/in/sufwan-mubeen-88b77b289)
-  - <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVoeWVyOG0xeTdpNDRjZzhveGNtMGJzaG5naTlnamtzMmV1enl1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.webp" width="30"> [sufwanmubeen](www.github.com/)
+
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
+<div align='left'>
+
+<ul>
+
+<li>
+<a href="https://linkedin.com/in/sufwan-mubeen-88b77b289" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  sufwanmubeen-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="https://x.com/sufwan_mubeen01?t=mVqcPSV9P5dHpj7EnccO9Q&s=09" target="_blank">
+<img src="https://img.shields.io/badge/X:  sufwanmubeen-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=X&logoColor=black" alt=X style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="mailto:sufwanmubeen@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  sufwanmubeen-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+	
+</ul>
+</div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<br>
+<br>
+
+<div align='center'>
